@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Engineer
 -------------------
 
-A passionate full stack developer from Peru
+A passionate developer from Peru
 
 * 🌍  I'm based in Rioja, Peru
 * ✉️  You can contact me at [esvdrah@gmail.com](mailto:esvdrah@gmail.com)
